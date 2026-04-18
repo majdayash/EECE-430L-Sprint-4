@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+db_config.py
+
+**/.idea/shelf/
+**/.idea/tasks.xml
+**/.idea/workspace.xml
+**/.idea/usage.statistics.xml
