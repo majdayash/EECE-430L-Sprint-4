@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_dialog_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\menu_menu_logged_in.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\menu\\menu_logged_in.xml"
+    },
+    {
+        "merged": "com.example.currencyexchange.app-merged_res-31:/layout_fragment_exchange.xml.flat",
+        "source": "com.example.currencyexchange.app-main-33:/layout/fragment_exchange.xml"
+    },
+    {
+        "merged": "com.example.currencyexchange.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.example.currencyexchange.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.currencyexchange.app-merged_res-31:/layout_activity_registration.xml.flat",
+        "source": "com.example.currencyexchange.app-main-33:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "com.example.currencyexchange.app-merged_res-31:/layout_dialog_transaction.xml.flat",
+        "source": "com.example.currencyexchange.app-main-33:/layout/dialog_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_fragment_exchange.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\fragment_exchange.xml"
+    },
+    {
+        "merged": "com.example.currencyexchange.app-merged_res-31:/layout_dialog_wallet.xml.flat",
+        "source": "com.example.currencyexchange.app-main-33:/layout/dialog_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\menu_menu_logged_out.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\menu\\menu_logged_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_fragment_transactions.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\fragment_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_layout_proof_panel.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\layout_proof_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_dialog_transaction.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\dialog_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-merged_res-31:\\layout_dialog_wallet.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.9\\com.example.currencyexchange.app-main-33:\\layout\\dialog_wallet.xml"
+    }
+]

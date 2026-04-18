@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="header_title">LBP Exchange Rate</string>
+    <string name="label_buy_usd">Buy USD</string>
+    <string name="label_sell_usd">Sell USD</string>
+</resources>
