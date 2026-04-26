@@ -1,6 +1,6 @@
 # Currency Exchange — Sprint 4
 
-**Author:** Ali Zahreddine
+**Author:** Majd Ayash
 
 A full-stack USD/LBP currency exchange platform consisting of a Flask REST backend and two iterations of an Android client built across two labs.
 
@@ -9,7 +9,7 @@ A full-stack USD/LBP currency exchange platform consisting of a Flask REST backe
 ## Repository Structure
 
 ```
-Ali Zahreddine- sprint4/
+Majd Ayash- sprint4/
 ├── sprint1_backend/     # Python/Flask REST API
 ├── Lab8/                # Android app — base implementation
 └── Lab9/                # Android app — full-featured implementation (Sprint 4)

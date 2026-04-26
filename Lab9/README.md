@@ -12,7 +12,7 @@ A Material Design Android app for USD/LBP currency exchange. Connects to a Flask
 2. **Configure the backend URL** *(see section below)*
 
 3. **Run the backend**
-   - From the `Ali Zahreddine- sprint4/` root, run:
+   - From the `Majd Ayash- sprint4/` root, run:
      ```
      python -m flask --app sprint1_backend.app run --debug
      ```

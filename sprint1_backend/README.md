@@ -1,4 +1,4 @@
-# backend_alizahreddine
+# backend_majdayash
 
 A RESTful Flask backend for a USD/LBP currency exchange platform. Supports user authentication, real-time exchange rate tracking, a P2P marketplace, price alerts, wallet management, analytics, audit logging, and admin reporting.
 
@@ -55,7 +55,7 @@ A RESTful Flask backend for a USD/LBP currency exchange platform. Supports user 
 ## Package Structure
 
 ```
-backend_alizahreddine/
+backend_majdayash/
 │
 ├── app.py              # Flask application, all 45 route definitions,
 │                       # JWT/RBAC decorators, global error handlers
@@ -113,12 +113,12 @@ Activate:
 ### 2. Install dependencies
 
 ```bash
-pip install -r backend_alizahreddine/requirements.txt
+pip install -r backend_majdayash/requirements.txt
 ```
 
 ### 3. Create a `.env` file
 
-Create `.env` in the repository root (alongside the `backend_alizahreddine/` folder):
+Create `.env` in the repository root (alongside the `backend_majdayash/` folder):
 
 ```env
 SECRET_KEY=your-secret-key-here
@@ -139,7 +139,7 @@ CREATE DATABASE exchange CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 ### 2. Set the connection string
 
-Open `backend_alizahreddine/db_config.py` and update it with your MySQL credentials:
+Open `backend_majdayash/db_config.py` and update it with your MySQL credentials:
 
 ```python
 DB_CONFIG = "mysql+pymysql://<user>:<password>@127.0.0.1:3306/exchange"
@@ -158,7 +158,7 @@ Replace `<user>` and `<password>` with your MySQL username and password.
 From the repository root with the virtual environment active:
 
 ```bash
-python -m flask --app backend_alizahreddine.app run
+python -m flask --app backend_majdayash.app run
 ```
 
 The server starts at **`http://127.0.0.1:5000`**.
@@ -167,10 +167,10 @@ Optional flags:
 
 ```bash
 # Different port
-python -m flask --app backend_alizahreddine.app run --port 8000
+python -m flask --app backend_majdayash.app run --port 8000
 
 # Debug mode with hot-reload
-python -m flask --app backend_alizahreddine.app run --debug
+python -m flask --app backend_majdayash.app run --debug
 ```
 
 ### Verify it is running
